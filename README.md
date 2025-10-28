@@ -47,8 +47,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1408" height="740" alt="image" src="https://github.com/user-attachments/assets/a46615ba-41f4-40c2-acc3-f5b0003a4bc5" />
+
+<img width="1416" height="676" alt="image" src="https://github.com/user-attachments/assets/10fd262c-432a-4525-b88b-51f204c42ad5" />
+
+<img width="1426" height="696" alt="image" src="https://github.com/user-attachments/assets/40ba44ab-9c36-425f-848b-0784ac0f8405" />
+
+
+
+
+### Name: JAYASRI L
+### Register Number: 212224040136
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
